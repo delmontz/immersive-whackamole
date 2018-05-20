@@ -14,23 +14,23 @@ Read the [Git Workflow](#git-workflow) before you get started.
 
 # Git Workflow
 
-1. [ ] Begin by **forking** this repository.
+1. [x] Begin by **forking** this repository.
 
 ![forking](https://i.imgur.com/PmLC0ON.png)
 
-2. [ ] Then, clone down your fork: `git clone YOUR_FORK_URL`
+2. [x] Then, clone down your fork: `git clone YOUR_FORK_URL`
 
-3. [ ] Then, checkout the appropriate checkpoint branch. Example: for checkpoint 0:
+3. [x] Then, checkout the appropriate checkpoint branch. Example: for checkpoint 0:
 
 `git checkout checkpoint-0` (checkpoint-0 is the branch name)
 
-4. [ ] Read `checkpoints/checkpoint-0.md` (for checkpoint 0)
+4. [x] Read `checkpoints/checkpoint-0.md` (for checkpoint 0)
 
-5. [ ] Do some work, then make a commit using `git commit`. 
+5. [x] Do some work, then make a commit using `git commit`. 
 
-6. [ ] Once you finish the work for a checkpoint, checkout the next branch. Example: `git checkout checkpoint-1`
+6. [x] Once you finish the work for a checkpoint, checkout the next branch. Example: `git checkout checkpoint-1`
 
-7. [ ] Continue working until you finish!
+7. [x] Continue working until you finish!
 
 # Starting the App
 
