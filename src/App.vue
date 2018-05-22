@@ -18,7 +18,7 @@
       </div>
     </div>
     <!-- モグラ表示 -->
-    <Moles />
+    <Moles v-bind:moleData="moles"/>
   </div>
 </template>
 

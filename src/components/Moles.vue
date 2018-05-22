@@ -14,7 +14,8 @@ export default {
       return {
          moles: [false, false, false, false]
       };
-   }
+   },
+   props: ['moleData']
 }
 </script>
 
